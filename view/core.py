@@ -134,6 +134,7 @@ def home_screen_view():
     print logo
     print version
     print "Welcome to Cyrptocalculator!"
+    print "Nice to meet you"
     print """
     QUICK START COMMANDS:
     |--help| This command will launch a help screen for the user
